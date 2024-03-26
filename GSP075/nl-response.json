@@ -1,0 +1,71 @@
+{
+  "entities": [
+    {
+      "name": "dispatches",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3560996,
+      "mentions": [
+        {
+          "text": {
+            "content": "dispatches",
+            "beginOffset": 23
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mustard",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2878307,
+      "mentions": [
+        {
+          "text": {
+            "content": "mustard",
+            "beginOffset": 38
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Obama",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/02mjmr",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Barack_Obama"
+      },
+      "salience": 0.16260329,
+      "mentions": [
+        {
+          "text": {
+            "content": "Obama",
+            "beginOffset": 31
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Dijon",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0pbhz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Dijon"
+      },
+      "salience": 0.08129317,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dijon",
+            "beginOffset": 54
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

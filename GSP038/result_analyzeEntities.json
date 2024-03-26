@@ -1,0 +1,140 @@
+{
+  "entities": [
+    {
+      "name": "Joanne Rowling",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/042xh",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/J._K._Rowling"
+      },
+      "salience": 0.79828626,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joanne Rowling",
+            "beginOffset": 0
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Rowling",
+            "beginOffset": 53
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "novelist",
+            "beginOffset": 96
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Robert Galbraith",
+            "beginOffset": 65
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "pen names",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07300248,
+      "mentions": [
+        {
+          "text": {
+            "content": "pen names",
+            "beginOffset": 37
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "J.K.",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.043804582,
+      "mentions": [
+        {
+          "text": {
+            "content": "J. K.",
+            "beginOffset": 47
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "British",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/United_Kingdom",
+        "mid": "/m/07ssc"
+      },
+      "salience": 0.019752095,
+      "mentions": [
+        {
+          "text": {
+            "content": "British",
+            "beginOffset": 88
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "fantasy series",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.01764168,
+      "mentions": [
+        {
+          "text": {
+            "content": "fantasy series",
+            "beginOffset": 149
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Harry Potter",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "mid": "/m/078ffw",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Harry_Potter"
+      },
+      "salience": 0.014916742,
+      "mentions": [
+        {
+          "text": {
+            "content": "Harry Potter",
+            "beginOffset": 136
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "screenwriter",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011085264,
+      "mentions": [
+        {
+          "text": {
+            "content": "screenwriter",
+            "beginOffset": 109
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}
