@@ -1,0 +1,92 @@
+{
+    "entities": [
+      {
+        "name": "日本",
+        "type": "LOCATION",
+        "metadata": {
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Japan",
+          "mid": "/m/03_3d"
+        },
+        "salience": 0.23804513,
+        "mentions": [
+          {
+            "text": {
+              "content": "日本",
+              "beginOffset": -1
+            },
+            "type": "PROPER"
+          }
+        ]
+      },
+      {
+        "name": "グーグル",
+        "type": "ORGANIZATION",
+        "metadata": {
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Google",
+          "mid": "/m/045c7b"
+        },
+        "salience": 0.21214141,
+        "mentions": [
+          {
+            "text": {
+              "content": "グーグル",
+              "beginOffset": -1
+            },
+            "type": "PROPER"
+          }
+        ]
+      },
+      {
+        "name": "六本木ヒルズ",
+        "type": "PERSON",
+        "metadata": {
+          "mid": "/m/01r2_k",
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Roppongi_Hills"
+        },
+        "salience": 0.19418614,
+        "mentions": [
+          {
+            "text": {
+              "content": "六本木ヒルズ",
+              "beginOffset": -1
+            },
+            "type": "PROPER"
+          }
+        ]
+      },
+      {
+        "name": "東京",
+        "type": "LOCATION",
+        "metadata": {
+          "mid": "/g/12lnhn10f",
+          "wikipedia_url": "https://de.wikipedia.org/wiki/Tokio"
+        },
+        "salience": 0.18159479,
+        "mentions": [
+          {
+            "text": {
+              "content": "東京",
+              "beginOffset": -1
+            },
+            "type": "PROPER"
+          }
+        ]
+      },
+      {
+        "name": "オフィス",
+        "type": "OTHER",
+        "metadata": {},
+        "salience": 0.17403255,
+        "mentions": [
+          {
+            "text": {
+              "content": "オフィス",
+              "beginOffset": -1
+            },
+            "type": "COMMON"
+          }
+        ]
+      }
+    ],
+    "language": "ja"
+  }
